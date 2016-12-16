@@ -226,4 +226,15 @@ a {
 
 /* --------------------- Load More ---------------------*/
 .btn-s {
-  margin-left: 45%; }
+  margin-left: 45%;
+  margin-bottom: 5%;
+  margin-top: 5%; }
+
+.p-footer {
+  font-size: 15px;
+  font-weight: bolder; }
+
+.th {
+  border-radius: 30px;
+  border: none;
+  margin-left: 5px; }
