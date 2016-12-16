@@ -2,10 +2,13 @@
   padding-top: 60px; }
 
 .home1-text, .home2-text {
-  margin-top: 30px; }
+  margin-top: 100px; }
+
+.home2-text {
+  margin-left: 300px; }
 
 .home3-text {
-  margin-top: 110px; }
+  margin-top: 10px; }
 
 .banner {
   background-image: url(../img/cover.jpg);
@@ -128,6 +131,7 @@
   display: inline-block;
   height: 32px;
   padding: 0 30px;
+  margin-top: 100px;
   border: 1px solid #fff;
   border-radius: 20px;
   color: white;
